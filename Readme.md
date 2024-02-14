@@ -1,0 +1,1 @@
+built a model to predict the price of houses with the available independent variables. This model will then be used by the management to understand how exactly the prices vary with the independent variables.  Further, the model will be a good way for management to understand the pricing dynamics of a new vehicle in the market.
